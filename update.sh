@@ -13,7 +13,7 @@ dpkg-scanpackages -m ./debs /dev/null >Packages
 rm -f Packages.bz2
 bzip2 -k Packages
 
-sed -i '' 's/.\/debs/.\/repo\/debs/g' Packages
+sed -i '' 's/.\/debs/https:\/\/jlippold.github.io\/repo\/debs/g' Packages
 
 
 echo "--------------------------"
