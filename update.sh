@@ -10,7 +10,7 @@ echo "--------------------------"
 
 #./dpkg-scanpackages.pl -m ./debs /dev/null >Packages
 dpkg-scanpackages -m ./debs /dev/null >Packages
-sed -i '' 's/.\/debs/https:\/\/jlippold.github.io\/repo\/debs/g' Packages
+#sed -i '' 's/.\/debs/http:\/\/jlippold.github.io\/repo\/debs/g' Packages
 rm -f Packages.bz2
 bzip2 -k Packages
 
