@@ -1,1 +1,1 @@
-jlippold.github.io/repo
+http://repo.jed.bz
