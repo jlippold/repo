@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Jed
 Installed-Size: 140
 Depends: mobilesubstrate
-Filename: ./repo/debs/bz.jed.tweakcompatible_0.0.7_iphoneos-arm.deb
+Filename: debs/bz.jed.tweakcompatible_0.0.7_iphoneos-arm.deb
 Size: 17778
 MD5sum: fc95723078e2f73479890c81a934d0e0
 SHA1: 4e50c679c16bae258d136ec13405aa467d9643fd
