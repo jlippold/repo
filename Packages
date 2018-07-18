@@ -1,13 +1,13 @@
 Package: bz.jed.shit-slices
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Jed
 Depends: com.ex.libsubstitute, coreutils, coreutils-bin, libactivator, com.bingner.plutil
-Filename: ./debs/bz.jed.shit-slices_0.0.1_iphoneos-arm.deb
-Size: 3360
-MD5sum: 3b66e4ab79e6b758e950067668e1634a
-SHA1: 824d86ad37dcf5c32e6328c5ccdb385e2f779c42
-SHA256: 31995264cb0b9cdf11191cf33dd5d9f39742f5470c6802e0cee2aabce7c928a7
+Filename: ./debs/bz.jed.shit-slices_0.0.2_iphoneos-arm.deb
+Size: 3668
+MD5sum: 77b92e04b940505feee72329545b7105
+SHA1: 003cb09306fb06d3e25fb2974c8119190a75fec4
+SHA256: 6afbba40217fdb2704d5bc900a7fa493f529f5e6d333247c5884306fa5f477b9
 Section: Tweaks
 Description: Adds multiple profiles to app store applications
 Author: Jed
