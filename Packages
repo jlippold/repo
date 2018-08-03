@@ -14,16 +14,16 @@ Author: Jed
 Name: 💩 Slices
 
 Package: bz.jed.tweakcompatible
-Version: 0.0.9
+Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Jed
 Installed-Size: 320
 Depends: mobilesubstrate
-Filename: ./debs/bz.jed.tweakcompatible_0.0.9_iphoneos-arm.deb
-Size: 44032
-MD5sum: 83ae123dff3f64e147d15146dc524fec
-SHA1: 607fdb07ecbba20e5041b615bf303be19ed1ea6b
-SHA256: 30b35b12bdc9d2a906b79e077c9ca80e0571c5f7532c5489ab7fb4b31b451ab4
+Filename: ./debs/bz.jed.tweakcompatible_0.1.0_iphoneos-arm.deb
+Size: 43476
+MD5sum: d3356eb53df9905b9f6ad449ece9aab2
+SHA1: edbb7585a63429c5846a8d22db351ed5aa89aa28
+SHA256: 76f9c50359b9f364db5b4ef7666b42fb07a180815ee1e98c1ee1fbd0949b5e3c
 Section: Tweaks
 Description: Adds a way to check tweak compatibility in cydia
 Author: Jed
