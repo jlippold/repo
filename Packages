@@ -1,15 +1,15 @@
 Package: bz.jed.shit-slices
-Version: 0.0.2
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Jed
-Depends: com.ex.libsubstitute, coreutils, coreutils-bin, libactivator, com.bingner.plutil
-Filename: ./debs/bz.jed.shit-slices_0.0.2_iphoneos-arm.deb
-Size: 3668
-MD5sum: 77b92e04b940505feee72329545b7105
-SHA1: 003cb09306fb06d3e25fb2974c8119190a75fec4
-SHA256: 6afbba40217fdb2704d5bc900a7fa493f529f5e6d333247c5884306fa5f477b9
+Depends: coreutils, coreutils-bin, libactivator, com.bingner.plutil
+Filename: ./debs/bz.jed.shit-slices_0.0.4_iphoneos-arm.deb
+Size: 3720
+MD5sum: 862783d12c9645e66441ab7fc018b76a
+SHA1: 9219ae84afb323aac69da0761a176a114a022d39
+SHA256: 6390bc99d8d0ca3f78bb2ccca8fa7977a504191ab88e23a23038281c46206cc4
 Section: Tweaks
-Description: Adds multiple profiles to app store applications
+Description: Works with instagram and snapchat v10.46.0
 Author: Jed
 Name: 💩 Slices
 
